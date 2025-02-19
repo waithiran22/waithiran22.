@@ -14,20 +14,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 Featured Projects  
 
-### 🔹 [SPC Heatmap Overhaul](https://github.com/waithiran22/spc-heatmap)  
-Revamping **SPC heatmaps** for better visualization and user experience.  
+### 🔹 [Big Data Sales Forecasting Model Using XGBoost and Hyperparameter Optimization](https://github.com/waithiran22/Big-Data-Forecasting-Model)  
+Designed to simulate large-scale sales data with complex seasonality, promotional impacts, and upward trends, this model demonstrates state-of-the-art machine learning practices for accurate sales prediction.
 
-### 🔹 [CFA Research Challenge](https://github.com/waithiran22/cfa-research)  
-Conducting **financial analysis and equity valuation** for a public company to develop investment recommendations.  
 
-### 🔹 [Kaskazi Network Data Analysis](https://github.com/waithiran22/kaskazi-analysis)  
-Exploring the **impact of seasonal trends and competitive pricing on sales performance**.  
+### 🔹 [Carbon Footprint Calculator](https://github.com/waithiran22/Carbon-Footprint-Calculator)  
+Program to calculate a user's carbon footprint based on daily activities.
 
-### 🔹 [Sales Forecasting Model](https://github.com/waithiran22/sales-forecaster)  
-Built a **machine learning model in Python** to predict **monthly sales trends**, improving forecast accuracy.  
 
-### 🔹 [Tableau Pricing Strategy](https://github.com/waithiran22/pricing-strategist)  
-Developed a **Tableau pricing model** that **boosted regional sales by 15%** through data-driven insights.  
+### 🔹 [War and Money in Africa ](https://github.com/waithiran22/War-and-Money-in-Africa)  
+The relationship between economic indicators and conflict events in African countries from 1997 to 2018.
+
+
+### 🔹 [Counting Cars](https://github.com/waithiran22/Counting-Cars)  
+Analyzing the speed, road time and other factors of 150 cars in order to understanding the comparisons between state drivers and figure out road safety procedures.
 
 
 ## 📫 Get in Touch
