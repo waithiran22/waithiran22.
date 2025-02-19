@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 Featured Projects  
 
-### 🔹 [Big Data Sales Forecasting Model Using XGBoost and Hyperparameter Optimization](https://github.com/waithiran22/Big-Data-Forecasting-Model)  
+### 🔹 [Big Data Sales Forecasting Model Using XGBoost and Hyperparameter Optimization](https://github.com/waithiran22/Big-Data-Sales-Forecasting-Model-Using-XGBoost-and-Hyperparameter-Optimization)  
 Designed to simulate large-scale sales data with complex seasonality, promotional impacts, and upward trends, this model demonstrates state-of-the-art machine learning practices for accurate sales prediction.
 
 
